@@ -213,6 +213,8 @@ img {
     border: none;
     cursor: pointer;
     padding: var(--spacing-xs);
+    position: relative;
+    z-index: 2000;
 }
 
 .nav-toggle span {
